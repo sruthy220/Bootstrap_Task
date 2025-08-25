@@ -1,0 +1,6 @@
+.carousel-control-prev { display: none; }  /* hides left arrow */
+.carousel-control-next { display: none; }  /* hides right arrow */
+a{
+  color: #ffffff; /* sets link color to black */
+  text-decoration: none; /* removes underline from links */
+}  
